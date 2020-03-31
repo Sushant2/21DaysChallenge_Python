@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4106a5a-aa7a-41f2-813f-47384c778b1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZechJ2PUtGGc9nOWwX9edaKMv5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -48,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day4">
+  <component name="RunManager" selected="Python.Day5">
     <configuration name="Day1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="21DaysChallenge_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Day5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="21DaysChallenge_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day5" />
         <item itemvalue="Python.Day4" />
         <item itemvalue="Python.Day3" />
         <item itemvalue="Python.Day2" />
         <item itemvalue="Python.Day1" />
-        <item itemvalue="Python.Test" />
       </list>
     </recent_temporary>
   </component>
