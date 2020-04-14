@@ -1,4 +1,4 @@
-# 21DaysChallenge_Python
+# 7DaysChallenge_Python
 This is a challenge for **Quarantine period** :D
 ___
 > The Organizer is very supportive in this challange!
